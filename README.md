@@ -1,0 +1,2 @@
+# seasonxi
+python hobbyist
